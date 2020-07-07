@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+#nav-list{
+	margin-top: 10px;
+}
+
+#nav-list a {
+    color: #66FCF1;
+    text-align: center;
+}
+
+#nav-list a:hover{
+	font-size: 1.8em;
+}
